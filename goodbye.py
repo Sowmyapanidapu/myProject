@@ -1,6 +1,6 @@
 
 def say_goodbye():
-    print("toodleloo")
+    print("!adios!")
 
 
 if __name__ == '__main__'
