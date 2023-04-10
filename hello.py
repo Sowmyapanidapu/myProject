@@ -1,6 +1,6 @@
 
 def howdy():
-    print("!hola!")
+    print("Hello this is Candy")
 
 
 if __name__ == '__main__':
